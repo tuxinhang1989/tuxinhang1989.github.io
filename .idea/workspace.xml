@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d665ce-33c5-405f-b4f4-564d62d07c12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-02-01-too-many-open-files.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IOLoop.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2018-02-01-too-many-open-files.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-02-01-too-many-open-files.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-01-too-many-open-files.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="766">
               <caret line="86" column="69" lean-forward="true" selection-start-line="86" selection-start-column="69" selection-end-line="86" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -37,6 +47,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/2018-02-01-too-many-open-files.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -369,6 +380,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="766">
           <caret line="86" column="69" lean-forward="true" selection-start-line="86" selection-start-column="69" selection-end-line="86" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding />
         </state>
       </provider>
